@@ -8,7 +8,7 @@
 - Trackpad
 - Keyboard
 - Volume hotkeys
-- Wifi/Bluetooth 
+- Wifi/Bluetooth (wifi sometime unstable, take your own risk)
 - iGPU
 - All hard drives
 - Speakers/Microphone/Camera/3.5mm port (AppleALC kext)
